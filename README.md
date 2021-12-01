@@ -1,8 +1,8 @@
 # revue_HN_burlesque_fronde
 
-Ce dépôt présente l'ensemble des données métadonnées et programmes nécessaires à la bonne compréhension et à la reproduction des expériences menées dans l'article "Exploiter un corpus de données textuelles sans post-traitement : l’écriture burlesque de la Fronde" ((Humanistica 2021, référence complète ci-dessous ):
+Ce dépôt présente l'ensemble des données, métadonnées et programmes nécessaires à la bonne compréhension et à la reproduction des expériences menées dans l'article "Exploiter un corpus de données textuelles sans post-traitement : l’écriture burlesque de la Fronde" ((Humanistica 2021, référence complète ci-dessous ):
 
-Karine Abiven, Jean-Baptiste Tanguy et Gaël Lejeune, « Exploiter un corpus de données textuelles sans post-traitement : l’écriture burlesque de la Fronde », Humanités numériques [En ligne], 4 | 2021, mis en ligne le 01 décembre 2021, consulté le 01 décembre 2021. URL : http://journals.openedition.org/revuehn/2355
+Karine Abiven, Jean-Baptiste Tanguy et Gaël Lejeune, « Exploiter un corpus de données textuelles sans post-traitement : l’écriture burlesque de la Fronde », Humanités numériques (En ligne, 4 | 2021, mis en ligne le 01 décembre 2021, consulté le 01 décembre 2021). [URL](http://journals.openedition.org/revuehn/2355
 
 Le dossier "mazarinades_burlesques" contient l'ensemble des documents du Corpus "Burlesque Fronde", découpé en 4 sous-dossiers alphabétiques pour permettre la consultation en ligne texte par texte. Une version texte où tous les documents sont concaténés figure dans le fichier "Mazarinades_Burlesques_concatenees.txt"
 
