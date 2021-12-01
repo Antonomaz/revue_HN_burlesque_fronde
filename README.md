@@ -1,7 +1,6 @@
 # revue_HN_burlesque_fronde
 
-Ce dépôt propose aux lecteurs l'ensemble des données, métadonnées et programmes nécessaires à la bonne compréhension et à la reproduction des expériences menées dans l'article publié dans la revue Humanités Numériques (référence ci-dessous). Ce travail a été réalisé par Karine Abiven, Jean-Baptiste Tanguy et Gaël Lejeune (Sorbonne Université, équipe STIH, projet ANTONOMAZ).
-
+Ce dépôt présente l'ensmeble des données métadonnées et programmes nécessaires à la bonne compréhension et à la reproduction des expériences menées dans l'article "Exploiter un corpus de données textuelles sans post-traitement : l’écriture burlesque de la Fronde" ((Humanistica 2021, référence complète ci-dessous
 
 Karine Abiven, Jean-Baptiste Tanguy et Gaël Lejeune, « Exploiter un corpus de données textuelles sans post-traitement : l’écriture burlesque de la Fronde », Humanités numériques [En ligne], 4 | 2021, mis en ligne le 01 décembre 2021, consulté le 01 décembre 2021. URL : http://journals.openedition.org/revuehn/2355
 
