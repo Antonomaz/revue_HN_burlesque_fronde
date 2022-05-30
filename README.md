@@ -9,7 +9,7 @@ Le dossier "mazarinades_burlesques" contient l'ensemble des documents du Corpus 
 Le dossier "corpus_contraste" contient l'ensemble des documents du corpus "Burlesque Hors Fronde", qui est un des corpus de contraste utilisé dans l'article. Les textes de ce corpus de contraste ont été choisis à partir des ouvrages de référence sur le sujet et de leur disponibilité en ligne. "Burlesque" peut y être entendu au sens large. Les ouvrages utilisés sont :
  - Bar, Francis. 1960. _Le Genre burlesque en France au xviie siècle. Étude de style_. Paris : Éditions D’Artrey
  - Nédélec, Claudine. 2004. _Les États et empires du burlesque_. Paris : Honoré Champion
-
+ce corpus de contraste comprend 33 textes en vers (dont 9 pièces de théâtre), et 12 textes en prose.
 
 Chaque fichier texte correspond à un document. Une version texte où  tous les documents sont concaténés figure dans le fichier "Corpus_Contraste_Concatene.txt"
 Les métadonnées qui ont permis la constitution des corpus figurent dans les deux tableurs : "Corpus_metadata.ods" (une feuille par sous-corpus )et "Moreau_bib_mazarinades.ods" (ensemble de la bibliographie de Célestin Moreau avec une feuille par Tome/Supplément)
